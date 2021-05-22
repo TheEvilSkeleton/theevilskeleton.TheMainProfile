@@ -1035,7 +1035,7 @@ user_pref("browser.tabs.loadBookmarksInTabs", true); // open bookmarks in a new 
 /* UX FEATURES: disable and hide the icons and menus ***/
 user_pref("browser.messaging-system.whatsNewPanel.enabled", false); // What's New [FF69+]
 user_pref("extensions.pocket.enabled", false); // Pocket Account [FF46+]
-user_pref("identity.fxaccounts.enabled", false); // Firefox Accounts & Sync [FF60+] [RESTART]
+// user_pref("identity.fxaccounts.enabled", false); // Firefox Accounts & Sync [FF60+] [RESTART]
 // user_pref("reader.parse-on-load.enabled", false); // Reader View
 /* OTHER ***/
 // user_pref("browser.bookmarks.max_backups", 2);
@@ -1098,6 +1098,9 @@ user_pref("browser.bookmarks.editDialog.showForNewBookmarks", false);
 
 // Make devtools dark
 user_pref("devtools.theme", "dark");
+
+/* TheEvilSkeleton's Entries */
+user_pref("privacy.annotate_channels.strict_list.enabled", true)
 
 /* END: internal custom pref to test for syntax errors ***/
 user_pref(
