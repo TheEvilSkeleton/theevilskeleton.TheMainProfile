@@ -1100,7 +1100,7 @@ user_pref("browser.bookmarks.editDialog.showForNewBookmarks", false);
 user_pref("devtools.theme", "dark");
 
 /* TheEvilSkeleton's Entries */
-user_pref("privacy.annotate_channels.strict_list.enabled", true)
+user_pref("privacy.annotate_channels.strict_list.enabled", true);
 
 /* END: internal custom pref to test for syntax errors ***/
 user_pref(
