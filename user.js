@@ -1101,6 +1101,7 @@ user_pref("devtools.theme", "dark");
 
 /* TheEvilSkeleton's Entries */
 user_pref("privacy.annotate_channels.strict_list.enabled", true);
+user_pref("fission.autostart", true); // https://wiki.mozilla.org/Project_Fission
 
 /* END: internal custom pref to test for syntax errors ***/
 user_pref(
