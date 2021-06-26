@@ -1107,8 +1107,6 @@ user_pref("fission.autostart", true); // https://wiki.mozilla.org/Project_Fissio
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 user_pref("svg.context-properties.content.enabled", true);
 user_pref("layout.css.backdrop-filter.enabled", true);
-user_pref("browser.tabs.tabMinWidth", 0);
-user_pref("browser.tabs.tabClipWidth", 0);
 user_pref("browser.urlbar.suggest.calculator", true);
 
 /* END: internal custom pref to test for syntax errors ***/
