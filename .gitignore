@@ -1,0 +1,7 @@
+*
+!.gitignore
+!user.js
+!README.md
+!LICENSE.txt
+!chrome
+!chrome/*
