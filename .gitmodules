@@ -1,0 +1,3 @@
+[submodule "chrome/Technetium"]
+	path = chrome/Technetium
+	url = git@github.com:edo0/Technetium.git
